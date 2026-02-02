@@ -35,7 +35,7 @@ Examples of using the **Model Context Protocol (MCP)** to give agents access to 
   ANTHROPIC_API_KEY=your_anthropic_api_key
   OPENAI_API_KEY=your_openai_api_key
   ```
-- **Ollama**: Required for local model usage like Llama3.2
+- **Ollama**: If not using the above, we can use ollama for local model usage like Llama3.2
 
 ### Installation
 
